@@ -1,2 +1,1 @@
-# espada
-Ga work, jangan digunakan
+Ini Ga Work Bro
