@@ -100,7 +100,7 @@ if ($register == false)
 	$verif = verif($otp, $register);
 	if ($verif == false)
 		{
-		echo "Failed to Registering Your Number!\n\n";
+		echo "\n\n";
 		}
 	  else
 		{
