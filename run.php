@@ -77,7 +77,10 @@ function veriflogin($otp, $token)
 		return false;
 		}
 	}
+function claim($token)
+	{
 echo color("green","Register Success !");
+	}
 
 echo color("yellow","\n=======================================================\n");
 echo color("yellow","Input 62 For ID and 1 For US Phone Number\n");
